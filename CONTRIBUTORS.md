@@ -1,3 +1,7 @@
+#### Name: Abi F.H
+ - Place: Jakarta, Indonesia
+ - Bio: Student
+ - Github: [abifadhillah](https://github.com/abifadhillah)
 #### Name: Mustafa U
  - Place: Bandung, Indonesia
  - Bio: Student
@@ -214,6 +218,10 @@
  - Place: Ernakulam,Kerala
  - Bio: Tech enthusiast.
  - GitHub: [akhilaksudarsan](https://github.com/akhilaksudarsan)
+ #### Name: Arisandi
+ - Place: Jawa Barat, Indonesia
+ - Bio: Java Developer
+ - Github: [arisandi1](https://github.com/arisandi1)
  #### Name: Musadiq Peerzada
  - Place: Anantnag, Kashmir
  - Bio: Student
@@ -242,3 +250,23 @@
  - Place: Jakarta, Indonesia
  - Bio: Student
  - Github: [sandi-aris](https://github.com/sandi-aris)
+#### Name: [farzufa](https://github.com/farzufa)
+ - Place: delhi,india
+ - Bio: Student
+ - Github: [Raphael Ebner](https://github.com/farzufa)
+#### Name: [Muhammad Ali Rafly](https://github.com/raflyid)
+ - Place: Jakarta, Indonesia
+ - Bio: Full Stack Developer, Student
+ - Github: [Muhammad Ali Rafly](https://github.com/raflyid)
+ #### Name: [farzinafa](https://github.com/farzinafa)
+ - Place: Kerala,india
+ - Bio: Student
+ - Github: [farzinafa](https://github.com/farzinafa)
+  #### Name: [James Ta](https://github.com/jamestacos)
+ - Place: Cupertino,CA,USA
+ - Bio: Student
+ - Github: [jamestacos](https://github.com/jamestacos)
+#### Name: [Adwaith S](https://github.com/SnappierSoap318)
+ - Place: Kerala, India
+ - Bio: Student, Programming enthusiast
+ - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
